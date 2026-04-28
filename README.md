@@ -1,6 +1,6 @@
 # Jay Tymchuk
 
-**Lead Detection Engineer** · Ontario, Canada
+**Lead Detection Engineer** · Canada
 
 I build tools that make detection engineers faster.
 
