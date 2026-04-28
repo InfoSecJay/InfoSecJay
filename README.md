@@ -1,6 +1,6 @@
 # Jay Tymchuk
 
-**Lead Detection Engineer** · Ontario, Canada · Open to Remote (CA/US)
+**Lead Detection Engineer** · Ontario, Canada
 
 I build tools that make detection engineers faster.
 
