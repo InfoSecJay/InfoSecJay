@@ -1,6 +1,6 @@
 # Jay Tymchuk
 
-I build tools that make detection engineers faster.
+Building tools to make detection engineering faster!
 
 ---
 
